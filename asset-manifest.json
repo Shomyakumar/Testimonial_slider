@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Testimonial_slider/static/css/main.da72ee40.css",
+    "main.js": "/Testimonial_slider/static/js/main.68d904b9.js",
+    "index.html": "/Testimonial_slider/index.html",
+    "main.da72ee40.css.map": "/Testimonial_slider/static/css/main.da72ee40.css.map",
+    "main.68d904b9.js.map": "/Testimonial_slider/static/js/main.68d904b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da72ee40.css",
+    "static/js/main.68d904b9.js"
+  ]
+}
